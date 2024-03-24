@@ -9,4 +9,8 @@ Practice Git commands
 
 # Updating the file again to test
 
+
 # I am going to test merge
+
+# Testing merge
+
