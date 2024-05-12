@@ -17,3 +17,5 @@ Practice Git commands
 # 12May2025
 ## Fetch Testing -> Updating the file in remote.
 
+## Pull Testing -> Updating the file in remote for pull command
+
