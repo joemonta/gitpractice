@@ -19,3 +19,5 @@ Practice Git commands
 
 ## Pull Testing -> Updating the file in remote for pull command
 
+## Commit - 1 from my remote server
+
