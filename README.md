@@ -30,3 +30,8 @@ Practice Git commands
 ## Adding file to local repo
 
 
+# One Squash
+
+# Two Squash
+
+# Third Squash
