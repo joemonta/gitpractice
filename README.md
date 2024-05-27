@@ -35,3 +35,9 @@ Practice Git commands
 # Two Squash
 
 # Third Squash
+
+# Practice 1 - Commit -1
+
+# Practice 1 - Commit - 2
+
+# Practice 1 - Commit - 3
