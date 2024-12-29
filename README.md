@@ -12,3 +12,5 @@ Practice Git commands
 # Commit E
 
 # Commit F
+
+# Commit G
